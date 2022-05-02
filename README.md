@@ -41,7 +41,7 @@ plt.title('Random Classification Data with 2 classes')
 ```
 
 ## Output:
-![Ex no 1.Random Classification
+
 ![image](https://user-images.githubusercontent.com/86832944/164291264-961e11b3-6a84-4a46-8cab-06e36f9f3f82.png)
 
 
