@@ -1,5 +1,5 @@
 ### EX NO: 01
-### DATE: 
+### DATE: 04/04/2022
 # <p align= "center">RANDOM CLASSIFICATION</p>
 ## AIM:
 To write a python program to perform random classification.
@@ -43,8 +43,6 @@ plt.title('Random Classification Data with 2 classes')
 ## Output:
 
 ![image](https://user-images.githubusercontent.com/86832944/164291264-961e11b3-6a84-4a46-8cab-06e36f9f3f82.png)
-
-
 
 
 ## Result:
