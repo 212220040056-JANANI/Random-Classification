@@ -26,8 +26,7 @@ Purpose of Random classifier: One of the most important features of the Random F
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 ## Program:
 ```
