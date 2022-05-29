@@ -58,7 +58,8 @@ plt.title('Random Classification Data with 2 classes')
 
 ### Output:
 
-![image](https://user-images.githubusercontent.com/86832944/164291264-961e11b3-6a84-4a46-8cab-06e36f9f3f82.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/86832944/170853449-b915f697-4b54-4f13-acb6-6f7a51a81ae7.png)
+
 
 
 ## Result:
